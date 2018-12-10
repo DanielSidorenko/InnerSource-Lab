@@ -10,9 +10,9 @@ un elenco:
 
 | A  | B  |
 |---|---|
-| 11  | 12  |
-| 21  | 22  |
+| 0  | 0 |
+| 0  | 0  |
 
-![GitHub image](img/github_image.jpg)
+![GitHub image](https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_DarkestDungeon_image1600w.jpg)
 
 [link al mio sito](https://stefanocecere.com)
